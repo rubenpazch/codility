@@ -8,6 +8,6 @@ namespace CodingLessons
 {
     class methos
     {
-        sdsdfsd
+        //sdsdfsd
     }
 }
