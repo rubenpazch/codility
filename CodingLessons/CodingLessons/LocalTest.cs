@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace CodingLessons
 {
-    class Program
+    class LocalTest
     {
         static void Main(string[] args)
         {
+            int result = BinaryGap.binary_gap(9);
+            Console.WriteLine(result);
+            Console.ReadLine();
         }
     }
 }
